@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvankhai071295/blog.git"
+  },
+  "keywords": [
+    "blog",
+    "khai"
+  ],
+  "author": "khai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenvankhai071295/blog/issues"
+  },
+  "homepage": "https://github.com/nguyenvankhai071295/blog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
